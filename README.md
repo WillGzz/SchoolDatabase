@@ -1,3 +1,3 @@
 # SchoolDatabase
 
-The file that uses all other classes is Menu
+The menu file is the actual database that makes use of all the other classes.
