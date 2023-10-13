@@ -1,3 +1,2 @@
 # SchoolDatabase
-
-The menu file is the actual database that makes use of all the other classes.
+Video of me explaining the code: https://youtu.be/4fVTa43QfCM
